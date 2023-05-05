@@ -4,3 +4,8 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Add more files to ignore
+*.exe
+*.exp
+*.lib
